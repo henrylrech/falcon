@@ -1,0 +1,2 @@
+add github actions - release with strip
+add filter by name, file size, order by

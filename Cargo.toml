@@ -1,0 +1,9 @@
+[package]
+name = "falcon-scan"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27"
+image = { version = "0.25", default-features = false, features = ["png"] }
+sysinfo = "0.30"
