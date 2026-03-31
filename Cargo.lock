@@ -1168,7 +1168,7 @@ dependencies = [
 
 [[package]]
 name = "falcon-scan"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "eframe",
  "image 0.25.10",
